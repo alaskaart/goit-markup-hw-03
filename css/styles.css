@@ -235,6 +235,14 @@ body {
     justify-content: space-between;
 }
 
+.describe {
+    margin-right: 30px;
+}
+
+.describe:last-child {
+    margin-right: 0;
+}
+
 /* our team */
 
 .team-info {
